@@ -16,7 +16,7 @@ body {
   }
   
   .hero {
-    background: url('buque.jpg') no-repeat center center/cover;
+    background: url('https://raw.github.com/Giovannarcruz/fluffy-memory/ec1f28bbb2061c8d4258b8ba83c250fd3b796d2d/images/buque.jpg') no-repeat center center/cover;
     color: white;
     padding: 100px 20px;
     text-align: center;
